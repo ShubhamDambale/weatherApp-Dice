@@ -1,6 +1,6 @@
 # Weather Forecast Application
 
-![Weather Forecast](weather_forecast_image.png)
+![Screenshot (770)](https://github.com/ShubhamDambale/weatherApp-Dice/assets/99756357/5efc39f9-8225-449a-8993-05e623592975)
 
 ## Introduction
 
